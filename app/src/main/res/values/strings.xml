@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Try</string>
+    <string name="one">病</string>
+    <string name="two">蟲</string>
+    <string name="three">害</string>
+    <string name="four">通</string>
+    <string name="start">開始使用</string>
+    <string name="about">關於我們</string>
+    <string name="ULB">拍照上傳</string>
+</resources>

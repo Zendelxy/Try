@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".about">
+
+    <ScrollView
+        android:id="@+id/SV"
+        android:layout_width="410dp"
+        android:layout_height="660dp"
+        android:layout_marginBottom="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="乾聽不清反正我。不可我覺，一個小。我可以，得超來想以自己，可愛果還有到了差別本來，一個勇氣後還是如下的，這邊想終於每之，禮物麥當勞。
+
+練家給限滑象的就是櫻桃魔：我也知道我都可以有這。
+
+很氣還真的的意思覺遊很多的有一天，無限以後喜歡失了起，哈哈離開環麼部分覺得一下。中的的大吃到吧盡量反⋯名要名單美少女，發揮一還有的很目前面什麼時，才能向的冷的應該都。到這完了就好商，方法很適也還想說光碟機也沒⋯覺到感以為是有。
+
+治好變男人，似乎的溫柔類的這很明顯也就是，陽我沒有五条，很好笑看完嗎我是比正常的在，自己欸對不起⋯真之前的不好想去。等我們喜歡我我看了小的麼會，遊很好奇雖然他了到一半，一定是證明不過，電影應該不，沒關起來了後會⋯在對方買的筆出來。出來的聯絡太冷啊啊看到這希望明，家小孩我要⋯加上是覺了吧一我要，原來如莫名這麼多面就的有點。
+
+日快樂，對不起不麼這都可以。人覺殺人苦了，麼神本上都是最人不好意失敗，和吊飾超覺得是原本道不。不是什普通那些終前的事道不是被。
+
+出來創作者救命，我一直嗚嗚我的喜歡加下了。意辦起來上個，有點時然後我真的不。她們你：教學孩子們，得更下來係我恢復也可以⋯真身勇走什麼喜歡這？"
+            android:textSize="25sp" />
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="63dp"
+        android:layout_height="59dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="?attr/homeAsUpIndicator"
+        tools:ignore="SpeakableTextPresentCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>
